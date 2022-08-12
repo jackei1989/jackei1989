@@ -1,5 +1,5 @@
-- 👋 Hi, I’m jabar mohammadi
-- 👀 I’m interested in Go, PHP, Vuejs
+- 👋 Hi, I’m jabbar mohammadi
+- 👀 I’m interested in Go, PHP
 - 🌱 I’m currently learning GO, PHP
 - 💞️ I’m looking to collaborate on GO developer
 - 📫 My email is : jabar.mohammadi.dev@gmail.com
